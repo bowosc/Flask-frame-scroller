@@ -1,2 +1,3 @@
-# Real Hiring Site
- The actual one! The real one!
+As seen here: https://www.apple.com/ipad-pro/
+
+High-def photography not included.
